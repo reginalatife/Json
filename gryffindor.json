@@ -1,0 +1,41 @@
+
+[{
+    "name": "Harry",
+    "img": "https://raw.githubusercontent.com/reginalatife/Json/main/fotos/Captura%20de%20Pantalla%202022-03-29%20a%20la(s)%2010.11.19.png"
+  },
+  {
+    "name": "Ron",
+    "img": "https://raw.githubusercontent.com/reginalatife/Json/main/fotos/Captura%20de%20Pantalla%202022-03-29%20a%20la(s)%2010.11.11.png"
+
+  },
+  {
+    "name": "Hermione",
+    "img": "https://raw.githubusercontent.com/reginalatife/Json/main/fotos/Captura%20de%20Pantalla%202022-03-29%20a%20la(s)%2010.10.51.png"
+
+  },
+  {
+    "name": "Godric",
+    "img": "https://raw.githubusercontent.com/reginalatife/Json/main/fotos/Captura%20de%20Pantalla%202022-03-29%20a%20la(s)%2010.14.09.png"
+
+  },
+  {
+    "name": "Sirius",
+    "img": "https://raw.githubusercontent.com/reginalatife/Json/main/fotos/Captura%20de%20Pantalla%202022-03-29%20a%20la(s)%2010.20.13.png"
+
+  },
+  {
+    "name": "Luna",
+    "img": "https://raw.githubusercontent.com/reginalatife/Json/main/fotos/Captura%20de%20Pantalla%202022-03-29%20a%20la(s)%2010.21.16.png"
+
+  },
+  {
+    "name": "Dumbeldore",
+    "img": "https://raw.githubusercontent.com/reginalatife/Json/main/fotos/Captura%20de%20Pantalla%202022-03-29%20a%20la(s)%2010.16.16.png"
+
+  },
+  {
+    "name": "Giny",
+    "img": " https://raw.githubusercontent.com/reginalatife/Json/main/fotos/Captura%20de%20Pantalla%202022-03-29%20a%20la(s)%2010.24.05.png"
+
+  }
+]
